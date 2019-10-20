@@ -1,0 +1,9 @@
+E:\2k1s\LAB\OOP\LAB_03\LAB_03\bin\Debug\LAB_03.exe.config
+E:\2k1s\LAB\OOP\LAB_03\LAB_03\bin\Debug\LAB_03.exe
+E:\2k1s\LAB\OOP\LAB_03\LAB_03\bin\Debug\LAB_03.pdb
+E:\2k1s\LAB\OOP\LAB_03\LAB_03\obj\Debug\LAB_03.csprojAssemblyReference.cache
+E:\2k1s\LAB\OOP\LAB_03\LAB_03\obj\Debug\LAB_03.Properties.Resources.resources
+E:\2k1s\LAB\OOP\LAB_03\LAB_03\obj\Debug\LAB_03.csproj.GenerateResource.cache
+E:\2k1s\LAB\OOP\LAB_03\LAB_03\obj\Debug\LAB_03.csproj.CoreCompileInputs.cache
+E:\2k1s\LAB\OOP\LAB_03\LAB_03\obj\Debug\LAB_03.exe
+E:\2k1s\LAB\OOP\LAB_03\LAB_03\obj\Debug\LAB_03.pdb
